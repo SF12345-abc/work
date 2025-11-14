@@ -1,0 +1,4 @@
+*.txt
+password.txt
+/tmp
+*.class
